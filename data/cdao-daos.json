@@ -1,4 +1,4 @@
-const defaultDaos = [
+ [
   "marmaj.sputnik-dao.near",
   "incubadora.sputnik-dao.near",
   "cudo.sputnik-dao.near",
