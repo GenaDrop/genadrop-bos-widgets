@@ -1,0 +1,31 @@
+{
+  cdaoContracts: [
+  { daoId: "marmaj.sputnik-dao.near", contractId: "marmaj.mintbase1.near" },
+  { daoId: "incubadora.sputnik-dao.near", contractId: "incubadora.mintbase1.near" },
+  { daoId: "cudo.sputnik-dao.near", contractId: "cudodao.mintbase1.near" },
+  { daoId: "muti.sputnik-dao.near", contractId: "muti.mintbase1.near" },
+  { daoId: "beat-dao.sputnik-dao.near", contractId: "beatdao.mintbase1.near" },
+  { daoId: "nxm.sputnik-dao.near", contractId: "nxm.mintbase1.near" },
+  { daoId: "gambiarra-dao.sputnik-dao.near", contractId: "gambiarra.mintbase1.near" },
+  { daoId: "metaverse-dao.sputnik-dao.near", contractId: "nearmetaversehistory.mintbase1.near" },
+  { daoId: "nomadelabel.sputnik-dao.near", contractId: "nomadelabel.mintbase1.near" },
+  { daoId: "mintbase.sputnik-dao.near", contractId: "marmaj.mintbase1.near" },
+  { daoId: "filipino-artist-guild.sputnik-dao.near", contractId: "filipinoartistguild.mintbase1.near" },
+  { daoId: "demonstra.sputnik-dao.near", contractId: "demonstra.mintbase1.near" },
+  { daoId: "arrozcriativo.sputnik-dao.near", contractId: "arrozestudios.mintbase1.near" },
+  { daoId: "thekindao.sputnik-dao.near", contractId: "thekindao.mintbase1.near" },
+  { daoId: "creatives.sputnik-dao.near", contractId: "kalakendradao.mintbase1.near" },
+    { daoId: "hypedao.sputnik-dao.near", contractId: "hype.mintbase1.near" },
+{ daoId: "vandao.sputnik-dao.near", contractId: "vandao.mintbase1.near" },
+{ daoId: "dimension.sputnik-dao.near", contractId: "dimension.mintbase1.near" },
+{ daoId: "c1foundation.sputnik-dao.near", contractId: "c1auctionhouse.mintbase1.near" },
+{ daoId: "dedeukwushryne.sputnik-dao.near", contractId: "dedeukwushryne.mintbase1.near" },
+{ daoId: "indiaverse.sputnik-dao.near", contractId: "indiaverse.mintbase1.near" },
+{ daoId: "master-minds.sputnik-dao.near", contractId: "masterminds.mintbase1.near" },
+{ daoId: "1-million-nfts.sputnik-dao.near", contractId: "1mlnnfts_contract.near" },
+{ daoId: "loozr-dao.sputnik-dao.near", contractId: "familyartisan.mintbase1.near" },
+{ daoId: "familydao.sputnik-dao.near", contractId: "thespiansdao.mintbase1.near" },
+{ daoId: "apex-trybe.sputnik-dao.near", contractId: "apex-trybe.mintbase1.near" },
+{ daoId: "thespians.sputnik-dao.near", contractId: "thespiansdao.mintbase1.near" }
+]
+}
