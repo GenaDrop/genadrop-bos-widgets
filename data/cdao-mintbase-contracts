@@ -1,5 +1,5 @@
 {
-  "daoNftContracts" = [
+  "daoNftContracts": [
   "marmaj.mintbase1.near",
   "marmajgalleries.mintbase1.near",
   "spreadthelove.mintbase1.near",
